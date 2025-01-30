@@ -17,7 +17,7 @@ namespace WebMongoI.Controllers
         //public void InserirDados()
         //{
         //    // Configurar conexão
-        //    var connectionString = "mongodb+srv://fernandokosciureski:Niel7BskDbCc2G0s@cluster0.iahfv.mongodb.net/?retryWrites=true&w=majority";
+        //    var connectionString = "mongodb+srv://fernandoxxxxxx@cluster1.iahfv.mongodb.net/?retryWrites=true&w=majority";
         //    var databaseName = "mongodbVSCodePlaygroundDB";
         //    var collectionName = "sales";
 
