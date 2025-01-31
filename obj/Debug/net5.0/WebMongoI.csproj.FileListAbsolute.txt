@@ -1,0 +1,105 @@
+C:\SITES\REACT\MongoDbI\WebMongoI\WebMongoI\bin\Debug\net5.0\appsettings.Development.json
+C:\SITES\REACT\MongoDbI\WebMongoI\WebMongoI\bin\Debug\net5.0\appsettings.json
+C:\SITES\REACT\MongoDbI\WebMongoI\WebMongoI\bin\Debug\net5.0\WebMongoI.exe
+C:\SITES\REACT\MongoDbI\WebMongoI\WebMongoI\bin\Debug\net5.0\WebMongoI.deps.json
+C:\SITES\REACT\MongoDbI\WebMongoI\WebMongoI\bin\Debug\net5.0\WebMongoI.runtimeconfig.json
+C:\SITES\REACT\MongoDbI\WebMongoI\WebMongoI\bin\Debug\net5.0\WebMongoI.runtimeconfig.dev.json
+C:\SITES\REACT\MongoDbI\WebMongoI\WebMongoI\bin\Debug\net5.0\WebMongoI.dll
+C:\SITES\REACT\MongoDbI\WebMongoI\WebMongoI\bin\Debug\net5.0\ref\WebMongoI.dll
+C:\SITES\REACT\MongoDbI\WebMongoI\WebMongoI\bin\Debug\net5.0\WebMongoI.pdb
+C:\SITES\REACT\MongoDbI\WebMongoI\WebMongoI\bin\Debug\net5.0\DnsClient.dll
+C:\SITES\REACT\MongoDbI\WebMongoI\WebMongoI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\SITES\REACT\MongoDbI\WebMongoI\WebMongoI\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\SITES\REACT\MongoDbI\WebMongoI\WebMongoI\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\SITES\REACT\MongoDbI\WebMongoI\WebMongoI\bin\Debug\net5.0\SharpCompress.dll
+C:\SITES\REACT\MongoDbI\WebMongoI\WebMongoI\bin\Debug\net5.0\Snappier.dll
+C:\SITES\REACT\MongoDbI\WebMongoI\WebMongoI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\SITES\REACT\MongoDbI\WebMongoI\WebMongoI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\SITES\REACT\MongoDbI\WebMongoI\WebMongoI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\SITES\REACT\MongoDbI\WebMongoI\WebMongoI\bin\Debug\net5.0\ZstdSharp.dll
+C:\SITES\REACT\MongoDbI\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.csproj.AssemblyReference.cache
+C:\SITES\REACT\MongoDbI\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.GeneratedMSBuildEditorConfig.editorconfig
+C:\SITES\REACT\MongoDbI\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.AssemblyInfoInputs.cache
+C:\SITES\REACT\MongoDbI\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.AssemblyInfo.cs
+C:\SITES\REACT\MongoDbI\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.csproj.CoreCompileInputs.cache
+C:\SITES\REACT\MongoDbI\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.MvcApplicationPartsAssemblyInfo.cs
+C:\SITES\REACT\MongoDbI\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.MvcApplicationPartsAssemblyInfo.cache
+C:\SITES\REACT\MongoDbI\WebMongoI\WebMongoI\obj\Debug\net5.0\staticwebassets\WebMongoI.StaticWebAssets.Manifest.cache
+C:\SITES\REACT\MongoDbI\WebMongoI\WebMongoI\obj\Debug\net5.0\staticwebassets\WebMongoI.StaticWebAssets.xml
+C:\SITES\REACT\MongoDbI\WebMongoI\WebMongoI\obj\Debug\net5.0\scopedcss\bundle\WebMongoI.styles.css
+C:\SITES\REACT\MongoDbI\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.RazorTargetAssemblyInfo.cache
+C:\SITES\REACT\MongoDbI\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.csproj.CopyComplete
+C:\SITES\REACT\MongoDbI\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.dll
+C:\SITES\REACT\MongoDbI\WebMongoI\WebMongoI\obj\Debug\net5.0\ref\WebMongoI.dll
+C:\SITES\REACT\MongoDbI\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.pdb
+C:\SITES\REACT\MongoDbI\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.genruntimeconfig.cache
+C:\Users\Fernando\Desktop\TRABALHO\NET\WebMongoI\WebMongoI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Fernando\Desktop\TRABALHO\NET\WebMongoI\WebMongoI\bin\Debug\net5.0\appsettings.json
+C:\Users\Fernando\Desktop\TRABALHO\NET\WebMongoI\WebMongoI\bin\Debug\net5.0\WebMongoI.exe
+C:\Users\Fernando\Desktop\TRABALHO\NET\WebMongoI\WebMongoI\bin\Debug\net5.0\WebMongoI.deps.json
+C:\Users\Fernando\Desktop\TRABALHO\NET\WebMongoI\WebMongoI\bin\Debug\net5.0\WebMongoI.runtimeconfig.json
+C:\Users\Fernando\Desktop\TRABALHO\NET\WebMongoI\WebMongoI\bin\Debug\net5.0\WebMongoI.runtimeconfig.dev.json
+C:\Users\Fernando\Desktop\TRABALHO\NET\WebMongoI\WebMongoI\bin\Debug\net5.0\WebMongoI.dll
+C:\Users\Fernando\Desktop\TRABALHO\NET\WebMongoI\WebMongoI\bin\Debug\net5.0\ref\WebMongoI.dll
+C:\Users\Fernando\Desktop\TRABALHO\NET\WebMongoI\WebMongoI\bin\Debug\net5.0\WebMongoI.pdb
+C:\Users\Fernando\Desktop\TRABALHO\NET\WebMongoI\WebMongoI\bin\Debug\net5.0\DnsClient.dll
+C:\Users\Fernando\Desktop\TRABALHO\NET\WebMongoI\WebMongoI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Fernando\Desktop\TRABALHO\NET\WebMongoI\WebMongoI\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\Fernando\Desktop\TRABALHO\NET\WebMongoI\WebMongoI\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\Fernando\Desktop\TRABALHO\NET\WebMongoI\WebMongoI\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\Fernando\Desktop\TRABALHO\NET\WebMongoI\WebMongoI\bin\Debug\net5.0\Snappier.dll
+C:\Users\Fernando\Desktop\TRABALHO\NET\WebMongoI\WebMongoI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Fernando\Desktop\TRABALHO\NET\WebMongoI\WebMongoI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Fernando\Desktop\TRABALHO\NET\WebMongoI\WebMongoI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Fernando\Desktop\TRABALHO\NET\WebMongoI\WebMongoI\bin\Debug\net5.0\ZstdSharp.dll
+C:\Users\Fernando\Desktop\TRABALHO\NET\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.csproj.AssemblyReference.cache
+C:\Users\Fernando\Desktop\TRABALHO\NET\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\Desktop\TRABALHO\NET\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.AssemblyInfoInputs.cache
+C:\Users\Fernando\Desktop\TRABALHO\NET\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.AssemblyInfo.cs
+C:\Users\Fernando\Desktop\TRABALHO\NET\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\TRABALHO\NET\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Fernando\Desktop\TRABALHO\NET\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fernando\Desktop\TRABALHO\NET\WebMongoI\WebMongoI\obj\Debug\net5.0\staticwebassets\WebMongoI.StaticWebAssets.Manifest.cache
+C:\Users\Fernando\Desktop\TRABALHO\NET\WebMongoI\WebMongoI\obj\Debug\net5.0\staticwebassets\WebMongoI.StaticWebAssets.xml
+C:\Users\Fernando\Desktop\TRABALHO\NET\WebMongoI\WebMongoI\obj\Debug\net5.0\scopedcss\bundle\WebMongoI.styles.css
+C:\Users\Fernando\Desktop\TRABALHO\NET\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.RazorTargetAssemblyInfo.cache
+C:\Users\Fernando\Desktop\TRABALHO\NET\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.csproj.CopyComplete
+C:\Users\Fernando\Desktop\TRABALHO\NET\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.dll
+C:\Users\Fernando\Desktop\TRABALHO\NET\WebMongoI\WebMongoI\obj\Debug\net5.0\ref\WebMongoI.dll
+C:\Users\Fernando\Desktop\TRABALHO\NET\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.pdb
+C:\Users\Fernando\Desktop\TRABALHO\NET\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.genruntimeconfig.cache
+C:\Users\Fernando\Desktop\TRABALHO\CODIGOS NETS\WebMongoI\WebMongoI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Fernando\Desktop\TRABALHO\CODIGOS NETS\WebMongoI\WebMongoI\bin\Debug\net5.0\appsettings.json
+C:\Users\Fernando\Desktop\TRABALHO\CODIGOS NETS\WebMongoI\WebMongoI\bin\Debug\net5.0\WebMongoI.exe
+C:\Users\Fernando\Desktop\TRABALHO\CODIGOS NETS\WebMongoI\WebMongoI\bin\Debug\net5.0\WebMongoI.deps.json
+C:\Users\Fernando\Desktop\TRABALHO\CODIGOS NETS\WebMongoI\WebMongoI\bin\Debug\net5.0\WebMongoI.runtimeconfig.json
+C:\Users\Fernando\Desktop\TRABALHO\CODIGOS NETS\WebMongoI\WebMongoI\bin\Debug\net5.0\WebMongoI.runtimeconfig.dev.json
+C:\Users\Fernando\Desktop\TRABALHO\CODIGOS NETS\WebMongoI\WebMongoI\bin\Debug\net5.0\WebMongoI.dll
+C:\Users\Fernando\Desktop\TRABALHO\CODIGOS NETS\WebMongoI\WebMongoI\bin\Debug\net5.0\ref\WebMongoI.dll
+C:\Users\Fernando\Desktop\TRABALHO\CODIGOS NETS\WebMongoI\WebMongoI\bin\Debug\net5.0\WebMongoI.pdb
+C:\Users\Fernando\Desktop\TRABALHO\CODIGOS NETS\WebMongoI\WebMongoI\bin\Debug\net5.0\DnsClient.dll
+C:\Users\Fernando\Desktop\TRABALHO\CODIGOS NETS\WebMongoI\WebMongoI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Fernando\Desktop\TRABALHO\CODIGOS NETS\WebMongoI\WebMongoI\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\Fernando\Desktop\TRABALHO\CODIGOS NETS\WebMongoI\WebMongoI\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\Fernando\Desktop\TRABALHO\CODIGOS NETS\WebMongoI\WebMongoI\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\Fernando\Desktop\TRABALHO\CODIGOS NETS\WebMongoI\WebMongoI\bin\Debug\net5.0\Snappier.dll
+C:\Users\Fernando\Desktop\TRABALHO\CODIGOS NETS\WebMongoI\WebMongoI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Fernando\Desktop\TRABALHO\CODIGOS NETS\WebMongoI\WebMongoI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Fernando\Desktop\TRABALHO\CODIGOS NETS\WebMongoI\WebMongoI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Fernando\Desktop\TRABALHO\CODIGOS NETS\WebMongoI\WebMongoI\bin\Debug\net5.0\ZstdSharp.dll
+C:\Users\Fernando\Desktop\TRABALHO\CODIGOS NETS\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.csproj.AssemblyReference.cache
+C:\Users\Fernando\Desktop\TRABALHO\CODIGOS NETS\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\Desktop\TRABALHO\CODIGOS NETS\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.AssemblyInfoInputs.cache
+C:\Users\Fernando\Desktop\TRABALHO\CODIGOS NETS\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.AssemblyInfo.cs
+C:\Users\Fernando\Desktop\TRABALHO\CODIGOS NETS\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\TRABALHO\CODIGOS NETS\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Fernando\Desktop\TRABALHO\CODIGOS NETS\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fernando\Desktop\TRABALHO\CODIGOS NETS\WebMongoI\WebMongoI\obj\Debug\net5.0\staticwebassets\WebMongoI.StaticWebAssets.Manifest.cache
+C:\Users\Fernando\Desktop\TRABALHO\CODIGOS NETS\WebMongoI\WebMongoI\obj\Debug\net5.0\staticwebassets\WebMongoI.StaticWebAssets.xml
+C:\Users\Fernando\Desktop\TRABALHO\CODIGOS NETS\WebMongoI\WebMongoI\obj\Debug\net5.0\scopedcss\bundle\WebMongoI.styles.css
+C:\Users\Fernando\Desktop\TRABALHO\CODIGOS NETS\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.RazorTargetAssemblyInfo.cache
+C:\Users\Fernando\Desktop\TRABALHO\CODIGOS NETS\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.csproj.CopyComplete
+C:\Users\Fernando\Desktop\TRABALHO\CODIGOS NETS\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.dll
+C:\Users\Fernando\Desktop\TRABALHO\CODIGOS NETS\WebMongoI\WebMongoI\obj\Debug\net5.0\ref\WebMongoI.dll
+C:\Users\Fernando\Desktop\TRABALHO\CODIGOS NETS\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.pdb
+C:\Users\Fernando\Desktop\TRABALHO\CODIGOS NETS\WebMongoI\WebMongoI\obj\Debug\net5.0\WebMongoI.genruntimeconfig.cache
